@@ -4,7 +4,10 @@
 <table>
 <b><i>du</i></b>
 <tr>
-<th><b>page title</b></th>
+
+<th><b> title</b></th>
+<td><b>description</b></td><br>
+
 </tr>
 <tr>
 <th>page title</th>
